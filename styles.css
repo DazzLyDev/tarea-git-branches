@@ -24,5 +24,14 @@ button {
   background: #ff63cb79;
   color: white;
   border: none;
-  padding: 10px 20px;
+  padding: 30px 60px;
+  border-radius: 12px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+button:hover {
+  background: #ff63cb;
+  transform: scale(1.05);
+  box-shadow: 0 8px 20px rgba(255, 99, 203, 0.4);
 }
