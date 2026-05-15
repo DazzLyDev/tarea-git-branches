@@ -9,7 +9,9 @@ body {
 
   height: 100vh;
 }
-
+h1 {
+  color: #0c0076;
+}
 .container {
   background: rgb(131, 131, 131);
   padding: 30px;
