@@ -11,11 +11,14 @@ body {
 }
 
 .container {
-  background: white;
+  background: rgb(131, 131, 131);
   padding: 30px;
   border-radius: 10px;
   text-align: center;
+  border: 2px solid white;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
 }
+
 
 button {
   background: #ff63cb79;
